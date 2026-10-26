@@ -1,0 +1,12 @@
+KPI,Value,Interpretation
+Distinct movies,4803.0,Distinct Movie_ID values in Movie Master.
+Valid financial records,3766.0,Movies with finite budget > 0 and recorded finite revenue >= 0.
+Excluded from financial analysis,1037.0,Movies that do not meet the stated financial-validity criteria.
+Profitable movies,2438.0,Recorded revenue exceeds recorded budget within the valid financial population.
+Loss-making movies,1326.0,Recorded revenue is below recorded budget within the valid financial population.
+Break-even movies,2.0,Recorded revenue equals recorded budget within the valid financial population.
+Profitable share of valid financial records,0.6473712161444504,Share of valid financial records classified as profitable; stored as a ratio.
+Median ROI,0.867533334117647,Median simplified profit-to-positive-budget ratio among valid financial records; stored as a ratio.
+Budget–revenue Pearson correlation,0.7098854081597497,Association among valid financial records; correlation does not imply causation.
+Popularity–revenue Pearson correlation,0.6447235045559983,Association among movies with finite popularity and valid recorded revenue; correlation does not imply causation.
+Artists with movie participation,54588.0,Distinct artists in the deduplicated artist–movie participation table.

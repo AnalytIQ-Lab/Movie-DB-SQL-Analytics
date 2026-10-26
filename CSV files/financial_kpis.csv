@@ -1,0 +1,12 @@
+Metric,Value
+Total movies,4803.0
+Movies with recorded revenue,4803.0
+Movies with valid positive budget and revenue,3766.0
+Total recorded budget,139503326521.0
+Total recorded revenue,395097847444.0
+Total simplified profit,251990182476.0
+Median movie revenue,19170001.0
+Median ROI,0.867533334117647
+Profitable movies,2438.0
+Loss-making movies,1326.0
+Movies with incomplete financial data,1037.0
